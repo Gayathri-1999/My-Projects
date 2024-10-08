@@ -6,4 +6,4 @@ To complement my manual testing skills, I transitioned to automation testing usi
 
 Through these projects, I developed a strong foundation in testing methodologies, attention to detail, and problem-solving skills. 
 
-Link To the project
+Link To the project: https://github.com/Gayathri-1999/My-Projects/tree/master/src/test/java
